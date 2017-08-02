@@ -1,6 +1,6 @@
 # Especificação do Projeto
 
--> CONTEÚDOS ABORDADOS: 
+- CONTEÚDOS ABORDADOS: 
 
 Gerenciamento de Memória : políticas de substituição de páginas
 
@@ -11,6 +11,7 @@ Código Fonte
 Arquivo de saída
 
 Apresentação
+
 
 # Informações gerais
 
@@ -39,7 +40,7 @@ O arquivo com as requisições será composto por um conjunto de linhas onde cad
 
 # Exemplo de entrada:
 
--> Arquivo de configuração da memória
+- Arquivo de configuração da memória
 
 256;8
 
@@ -51,7 +52,7 @@ O arquivo com as requisições será composto por um conjunto de linhas onde cad
 
 4 A 300 300 1 1 
 
--> Arquivo de requisições
+- Arquivo de requisições
 
 A 8
 
